@@ -263,7 +263,7 @@ While the portfolio is fully functional, I have several plans for future enhance
 Hi! I'm **Krish Virpariya**, currently pursuing a **Bachelor of Computer Applications (BCA)** at Saurashtra University (2025 - 2028). 
 
 I am deeply passionate about core computer science subjects, modern web development, and software engineering principles. I enjoy transforming complex problems into simple, beautiful, and intuitive interface designs. My web development journey started with a sheer curiosity about how websites work. Since then, I've been continuously learning and building projects using React.js and other modern technologies, always focusing on delivering high-quality, performant applications.
-
+ok done high app the high perfo
 ---
 
 ## 🏆 Achievements & Certifications
