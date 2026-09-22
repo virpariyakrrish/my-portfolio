@@ -155,13 +155,13 @@ const Hero = () => {
                 </motion.div>
 
 
-                <div className="relative w-full h-full rounded-full border-4 border-gray-800 bg-gray-900 overflow-hidden shadow-2xl flex items-center justify-center">
+                <div className="relative w-full h-full rounded-full border-4 border-gray-800 bg-white overflow-hidden shadow-2xl flex items-center justify-center">
                   <motion.img 
-                    whileHover={{ scale: 1.1 }}
-                    transition={{ duration: 0.5 }}
-                    src="https://cdn3d.iconscout.com/3d/premium/thumb/boy-avatar-6299533-5187871.png" 
+                    whileHover={{ scale: 1.05 }}
+                    transition={{ duration: 0.4 }}
+                    src="/profile.png" 
                     alt="Krish Virpariya" 
-                    className="w-full h-full object-contain z-0 scale-110"
+                    className="w-full h-full object-cover object-[50%_25%] z-0"
                     style={{ transform: "translateZ(20px)" }}
                   />
                 </div>

@@ -17,6 +17,13 @@ A fully responsive, modern personal portfolio website built with **React**, **Vi
 </p>
 
 ---
+## 👨‍💻 About Me
+
+Hi! I'm **Krish Virpariya**, currently pursuing a **Bachelor of Computer Applications (BCA)** at Saurashtra University (2025 - 2028). 
+
+I am deeply passionate about core computer science subjects, modern web development, and software engineering principles. I enjoy transforming complex problems into simple, beautiful, and intuitive interface designs. My web development journey started with a sheer curiosity about how websites work. Since then, I've been continuously learning and building projects using React.js and other modern technologies, always focusing on delivering high-quality, performant applications.
+ok done high app the high perfo
+---
 
 </div>
 
@@ -169,61 +176,6 @@ portfoliyo/
 
 ---
 
-## ⚙️ Comprehensive Setup Guide
-
-Follow this extensive guide to run, modify, and build the project on your local machine.
-
-### Prerequisites
-1. **Node.js**: Ensure you have Node.js version 16.0.0 or higher installed. Check by running `node -v` in your terminal.
-2. **Git**: Version control to clone the repository.
-3. **Code Editor**: VS Code is highly recommended with extensions like `ESLint`, `Prettier`, and `Tailwind CSS IntelliSense`.
-
-### Local Development Setup
-
-1. **Clone the repository:**
-   Open your terminal and run:
-   ```bash
-   git clone https://github.com/virpariyakrrish/portfoliyo.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd portfoliyo
-   ```
-
-3. **Install Dependencies:**
-   Use npm (or yarn/pnpm) to install the required packages:
-   ```bash
-   npm install
-   ```
-
-4. **Start the Development Server:**
-   Launch the Vite development server:
-   ```bash
-   npm run dev
-   ```
-
-5. **View the Application:**
-   Open your browser and navigate to `http://localhost:5173`. Any changes you make to the source code will instantly reflect in the browser thanks to Hot Module Replacement (HMR).
-
-### Building for Production
-
-When you are ready to deploy:
-
-1. **Run the Build Command:**
-   ```bash
-   npm run build
-   ```
-   This will bundle the application and place optimized static files in the `dist/` directory.
-
-2. **Preview the Build Locally:**
-   ```bash
-   npm run preview
-   ```
-   This allows you to test the production build locally before deploying to servers like Vercel, Netlify, or GitHub Pages.
-
----
-
 ## ⚡ Performance Optimization
 
 Performance is a first-class citizen in this project:
@@ -258,14 +210,6 @@ While the portfolio is fully functional, I have several plans for future enhance
 
 ---
 
-## 👨‍💻 About Me
-
-Hi! I'm **Krish Virpariya**, currently pursuing a **Bachelor of Computer Applications (BCA)** at Saurashtra University (2025 - 2028). 
-
-I am deeply passionate about core computer science subjects, modern web development, and software engineering principles. I enjoy transforming complex problems into simple, beautiful, and intuitive interface designs. My web development journey started with a sheer curiosity about how websites work. Since then, I've been continuously learning and building projects using React.js and other modern technologies, always focusing on delivering high-quality, performant applications.
-ok done high app the high perfo
----
-
 ## 🏆 Achievements & Certifications
 
 ### Achievements
@@ -282,39 +226,13 @@ ok done high app the high perfo
 
 ---
 
-## 📈 GitHub Activity
-
-I am an active contributor to open source and constantly push code to improve my skills. Below is a real-time snapshot of my GitHub activity:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virpariyakrrish&custom_title=Krish's%20GitHub%20Stats&show_icons=true&theme=react&hide_border=true&bg_color=111827" alt="Krish's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virpariyakrrish&theme=react&hide_border=true&background=111827" alt="Krish's GitHub Streak" />
-</div>
-
----
-
-## 🤝 Contribution Guidelines
-
-This is my personal portfolio, but I highly encourage you to fork it if you find the design appealing!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-If you use this template, a star ⭐ on the repository and attribution would be highly appreciated!
-
----
-
 ## video link
 
 https://drive.google.com/file/d/1kMtYqWNLfRk5ZsiS8F-9SN6mxfmnfnkM/view?usp=sharing
 
 ---
 
-## 📫 Contact & Connect
+## 📫 Contact 
 
 Have a project in mind, a job opportunity, or just want to say hi? I'd love to hear from you!
 
